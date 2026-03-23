@@ -1,0 +1,133 @@
+You can now ask a much wider set of questions, for example:
+
+Can I cancel my order after placing it?
+What is the cancellation window for orders?
+Can I edit my delivery address after order confirmation?
+Can I change items in my order before shipping?
+What is your refund policy?
+How many days do I have to request a refund?
+Do I need original packaging for a refund?
+Can I return a product without accessories?
+How long does return pickup take after approval?
+How long does shipping usually take?
+Why is my order delayed?
+How do I track my shipment?
+My tracking is not updating, what should I do?
+Can I exchange a product for another size?
+What if I receive a damaged item?
+What if I receive the wrong product?
+How long does a cancellation refund take?
+My prepaid payment failed, when will reversal happen?
+What payment methods do you accept?
+Why is Cash on Delivery not available for my pin code?
+Can I use more than one coupon on an order?
+Why is my coupon not applying?
+How can I get a GST invoice?
+How do I contact support?
+What are your support working hours?
+How long does support take to respond?
+How do I escalate an unresolved issue?
+What details are needed for escalation?
+Are Sundays counted as business days?
+Can you summarize your cancellation, refund, and shipping policies?
+
+
+I placed an order 30 minutes ago, can I cancel it now?
+
+It has been 3 hours since I ordered, am I still eligible to cancel?
+
+What is the exact order cancellation time limit?
+
+Can I cancel an order after it has been packed?
+
+My order is not shipped yet, can I change the delivery address?
+
+I entered the wrong house number, how can I update it?
+
+Can I edit phone number and address after checkout?
+
+Is item replacement in the same order possible before dispatch?
+
+I want to change product color after ordering, is that allowed?
+
+Can I modify my cart items once payment is done?
+
+What is your refund policy in simple terms?
+
+Within how many days can I ask for a refund?
+
+Are used products eligible for refund?
+
+Do I need original packaging to get a refund?
+
+If tags are missing, will I still get full refund?
+
+I opened the product but did not use it, can I refund?
+
+What conditions must be met for refund approval?
+
+When does the 7-day refund window start?
+
+Are refunds allowed for damaged packaging?
+
+What happens if return quality check fails?
+
+How do I request a return pickup?
+
+How many days does return pickup take after approval?
+
+My pickup failed yesterday, what should I do now?
+
+How many pickup attempts are made before cancellation?
+
+Can I return an item without original accessories?
+
+If one accessory is missing, will refund be partial?
+
+Can I return and exchange at the same time?
+
+Do you accept exchange requests for size issues?
+
+What if replacement stock is not available?
+
+Can I get refund instead of exchange?
+
+How long does standard shipping usually take?
+
+Is delivery counted in business days or calendar days?
+
+Do you deliver on Sundays?
+
+Why is my delivery delayed this week?
+
+My tracking page shows no movement for 24 hours, what now?
+
+When do I receive my tracking link?
+
+Order says dispatched but not out for delivery, why?
+
+Do remote locations take extra shipping time?
+
+Are holiday orders processed the same day?
+
+When is an order typically dispatched after placement?
+
+What payment methods are supported on checkout?
+
+Why did my prepaid payment fail even though money was debited?
+
+How long does bank reversal take for failed payments?
+
+Is Cash on Delivery available for all pin codes?
+
+Why is COD unavailable for my address?
+
+Can I use two coupons on one order?
+
+Why is my promo code showing invalid?
+
+How do I get GST invoice for my business purchase?
+
+What are your support hours and email?
+
+My issue is unresolved for 2 days, how do I escalate with ticket ID?
